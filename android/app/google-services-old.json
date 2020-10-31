@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791461907015",
+    "firebase_url": "https://buena-pesca-39d49.firebaseio.com",
+    "project_id": "buena-pesca-39d49",
+    "storage_bucket": "buena-pesca-39d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791461907015:android:d6944fa4ac232ad8dd7f62",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.flutterrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791461907015-jlv2o9fhmu7hkqjukugmukrdn9sa8s4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panaceasoft.flutterrestaurant",
+            "certificate_hash": "4fdd412a79943fd7c4905847fca5992508294d11"
+          }
+        },
+        {
+          "client_id": "791461907015-58oggp46v4qe2o4m6e0g5c9i7giaqkha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZFHVCzEoy2cqbsQh_GAKNKBcgvnoDFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791461907015-58oggp46v4qe2o4m6e0g5c9i7giaqkha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
